@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"BasketballGame_atlas_", frames: [[990,638,32,32],[0,833,343,298],[992,377,32,32],[457,833,121,40],[580,833,117,41],[457,875,115,34],[345,833,110,49],[802,0,222,375],[0,0,800,831],[802,377,188,259],[802,638,186,260]]}
+		{name:"BasketballGame_atlas_", frames: [[992,377,32,32],[0,833,343,298],[990,638,32,32],[457,833,121,40],[580,833,117,41],[457,875,115,34],[345,833,110,49],[802,0,222,375],[0,0,800,831],[802,377,188,259],[802,638,186,260]]}
 ];
 
 
@@ -12596,11 +12596,11 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/BasketballGame_atlas_.png", id:"BasketballGame_atlas_"},
-		{src:"https://code.jquery.com/jquery-2.2.4.min.js", id:"lib/jquery-2.2.4.min.js"},
-		{src:"components/sdk/anwidget.js", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js", id:"an.TextInput"},
-		{src:"components/ui/src/combobox.js", id:"an.ComboBox"}
+		{src:"images/BasketballGame_atlas_.png?1582490494684", id:"BasketballGame_atlas_"},
+		{src:"https://code.jquery.com/jquery-2.2.4.min.js?1582490495313", id:"lib/jquery-2.2.4.min.js"},
+		{src:"components/sdk/anwidget.js?1582490495313", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1582490495313", id:"an.TextInput"},
+		{src:"components/ui/src/combobox.js?1582490495313", id:"an.ComboBox"}
 	],
 	preloads: []
 };
